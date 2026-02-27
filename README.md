@@ -5,7 +5,7 @@ The font is origianlly from a typewrite called Remtor, which has been digitally 
 The main reason for creating a font was to make it easier to produce prints for t-shirts, but also to be used as a "fun font" whenever TÅGEKAMMERET has some offical buisness that needs to be printed out.
 
 ## Whats included
-So far it is only capital letters, numbers and back- and forwardslash that is included, but more will hopefully be added later.
+So far it is only capital letters, numbers, dollar sign and back- and forwardslash that is included, but more will hopefully be added later.
 
 ## Authors
 The inital letters were drawn by Alice and later adjusted to a font by Christopher.
