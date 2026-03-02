@@ -1,6 +1,9 @@
 # TK-Font
 The font is origianlly from a typewrite called Remtor, which has been digitally scanned and made into a font. 
 
+## Install
+Download the "TAAGEKAMMERET.otf" file and follow the font installation process for your system.
+
 ## Why?
 The main reason for creating a font was to make it easier to produce prints for t-shirts, but also to be used as a "fun font" whenever TÅGEKAMMERET has some offical buisness that needs to be printed out.
 
